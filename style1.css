@@ -119,7 +119,7 @@ header .navigation li a:hover
     position: relative;    
 }
 
-h3{
+.Menu .block h3{
     color: #192a56;
     text-align: center;
     padding-top: 50px;
@@ -132,6 +132,7 @@ h3{
     font-size: 30;
     color: #192a56;
     font-family: bookman;
+    padding-top: 50%;
 }
 
 .Gallery{
@@ -192,6 +193,10 @@ h3{
     padding: 30px;
 }
 
+.order form{
+    padding-top: 50%;
+}
+
 .order .button{
     position: absolute;
     top: auto;
@@ -229,6 +234,7 @@ h3{
             font-size: 60;
             padding-top: 50px;
             padding-left: 20px;
+            
         }
        
         .contact h3{
@@ -236,6 +242,7 @@ h3{
            text-align: left;
             color: white;
             padding-left: 20px;
+            padding-top: 50%;
         } 
         
         .contact p{
